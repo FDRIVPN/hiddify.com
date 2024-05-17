@@ -1,0 +1,5 @@
+---
+title: Installation and setup
+weight: -100
+---
+vless://4bd925c2-fe42-4890-911c-26e9ac5c6630@cpanel2.sassanidempire.com:2053?type=grpc&security=tls&serviceName=&sni=cpanel2.sassanidempire.com#IranCPI-63139
